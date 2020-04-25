@@ -1,2 +1,2 @@
-# Introducao_a_programacao
- Programas em C de introdução a programação da Univasf
+# Introdução a programação
+ Programas em C da matéria Introdução a programação da UNIVASF
